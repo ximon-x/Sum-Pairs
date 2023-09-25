@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "name": "Sum-Pairs",
+  "version": "1.0.0",
+  "description": "Simon's Accessment Submission",
+  "main": "index.js",
+  "repository": "https://github.com/ximon-x/Sum-Pairs.git",
+  "author": "Simon Samuel <salviensky@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
